@@ -1,7 +1,8 @@
-# Hi there
-## Welcome to my github page
+## Hi there
+### Welcome to my github page
 
-*I'm Atiye*
+*I'm Atiye from Canada*
+
 *I am a Software Automation Engineer*
 
 
