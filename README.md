@@ -5,7 +5,7 @@
 
 *I am a Software Automation Engineer*
 
-[My Linkedin Accont](https://www.example.com)
+[My Linkedin Accont](https://www.linkedin.com/in/atiye-kariparduc-03984897/)
 
 
 
