@@ -5,7 +5,9 @@
 
 *I am a Software Automation Engineer in Test*
 
-[My Linkedin Account(Click Here)](https://www.linkedin.com/in/atiye-kariparduc-03984897/)
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+<!-- [My Linkedin Account(Click Here)](https://www.linkedin.com/in/atiye-kariparduc-03984897/) -->
 
 
 <!--
