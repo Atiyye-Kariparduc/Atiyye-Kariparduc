@@ -5,6 +5,10 @@
 
 *I am a Software Automation Engineer in Test*
 
+*On this page, you can learn from scratch and follow my projects.*
+
+*Do not hesitate to send your questions to me.*
+
 <!--  Contact me links. replace href with your linkedin link. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
