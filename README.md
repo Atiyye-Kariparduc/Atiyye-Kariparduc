@@ -8,7 +8,7 @@
 <!--  Contact me links. replace href with your linkedin link. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Atiyye-Kariparduc" target="blank">
+<a href="https://linkedin.com//in/atiye-kariparduc-03984897/" target="blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atiyye-Kariparduc" height="30" width="40" />
 </a>
 </p>
